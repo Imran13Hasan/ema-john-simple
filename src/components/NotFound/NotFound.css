@@ -1,0 +1,8 @@
+.notFound h1 {
+    text-align: center;
+    color: red;
+    margin: auto;
+    display: block;
+    margin-top: 300px;
+    font-size: 60px;
+}
